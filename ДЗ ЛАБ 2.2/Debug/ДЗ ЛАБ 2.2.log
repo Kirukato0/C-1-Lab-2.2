@@ -1,0 +1,3 @@
+﻿  ДЗ ЛАБ 2.2.cpp
+C:\Users\066\source\repos\ДЗ ЛАБ 2.2\ДЗ ЛАБ 2.2.cpp(12,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  ДЗ ЛАБ 2.2.vcxproj -> C:\Users\066\source\repos\ДЗ ЛАБ 2.2\Debug\ДЗ ЛАБ 2.2.exe
